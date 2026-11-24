@@ -1,10 +1,5 @@
 # Hi 👋, I'm João Pedro
 
-
-        /|_____________________________________________________
- O|===|* >_____________________________________________________>
-        \|
-
 ### Cybersecurity Obsessed Guy 
 
 - 🔭 I'm currently working on **Projetos de Cybersegurança Relacionado a Invasões de Servidores Nuvem**
