@@ -1,4 +1,5 @@
-# Hi 👋, I'm João Pedro
+<img width="960" height="320" alt="image" src="https://github.com/user-attachments/assets/31eb6edd-64bb-47e8-ba5c-3de216d4b992" />
+
 
 ### Cybersecurity Obsessed Guy 
 
