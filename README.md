@@ -9,7 +9,7 @@
 
 - <img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-079242.gif" height="28" align="absmiddle" /> I'm looking to collaborate on **Open source security projects **
 
-- <img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-353586.gif.gif" height="28" align="absmiddle" /> Ask me about **React | Node.Js | Software architeture | CYBERSECURITY FACTS**
+- <img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-353586.gif" height="28" align="absmiddle" /> Ask me about **React | Node.Js | Software architeture | CYBERSECURITY FACTS**
 
 - <img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-546660.gif" height="28" align="absmiddle" /> How to reach me **joaopedrodamasceno03@gmail.com**
 
