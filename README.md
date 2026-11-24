@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joaopedrodamasceno03@gmail.com**
 
-- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0c7ef5a0-5829-4d67-817b-fd1249a1cb5f" />
+- <img src="https://raw.githubusercontent.com/ja1-jpedro/ja1-jpedro/main/cozycamp.gif" width="100%" />
 
 
 
