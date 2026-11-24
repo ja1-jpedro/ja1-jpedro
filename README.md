@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **joaopedrodamasceno03@gmail.com**
 
-- <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/7d80cc95-f046-488e-8771-b2e7ada4f455" />
+- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0c7ef5a0-5829-4d67-817b-fd1249a1cb5f" />
+
 
 
 <h3 align="left">Connect with me:</h3>
