@@ -1,4 +1,4 @@
-<img width="960" height="320" alt="image" src="https://github.com/user-attachments/assets/31eb6edd-64bb-47e8-ba5c-3de216d4b992" />
+<img src="https://raw.githubusercontent.com/ja1-jpedro/ja1-jpedro/main/joao_pedro_zelda_cyber_banner.gif" width="100%" />
 
 
 ### Cybersecurity Obsessed Guy 
