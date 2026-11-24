@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Projetos de Cybersegurança Relacionado a Invasões de Servidores Nuvem**
 
-- <img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-804248.gif" height="24" align="center" /> I'm currently learning **Golang and PHP**<br>
+- <img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-804248.gif" height="28" align="absmiddle" /> I'm currently learning **Golang and PHP**<br>
 
 - 👯 I'm looking to collaborate on **Open source security projects **
 
