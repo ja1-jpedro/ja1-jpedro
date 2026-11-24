@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **joaopedrodamasceno03@gmail.com**
 
+- <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/7d80cc95-f046-488e-8771-b2e7ada4f455" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ja1-jpedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ja1-jpedro" height="30" width="40" /></a>
